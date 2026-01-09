@@ -1,12 +1,9 @@
 #EXTM3U
 
-#EXTINF:-1, RT V
-https://598c4b93.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UGxleF9FdXJvbmV3c1BvcnR1Z3Vlc19ITFM/playlist.m3u8
-
-#EXTINF:-1,Tele Clasica
+#EXTINF:-1 tvg-logo="https://symphonier.com/img/estaciones/teleclasica.png" group-title="Cine",Tele Clasica
 https://live20.bozztv.com/akamaissh101/ssh101/teleclasik/playlist.m3u8
 
-#EXTINF:-1, Runtime Accion
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2022/10/Runtime-Accio%CC%81n-en-directo-Online-696x392.png"   group-title= "Cine" ,Runtime Accion
 https://run-ra-es.otteravision.com/run/ra_es/ra_es_720.m3u8
 
 #EXTINF:-1, TVs Retro
@@ -38,6 +35,22 @@ https://d20xuwbyc4yoag.cloudfront.net/scheduler/scheduleMaster/387/variant/22099
 
 #EXTINF:-1, Runtime Trash
 https://run-rt-tr-es.otteravision.com/run/rt_tr_es/rt_tr_es_720.m3u8
+
+#EXTINF:-1, Runtime Crimen 2
+https://run-rucrl.otteravision.com/run/rucrl/rucrl_720.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c06589c968882b19431e883df28f54cf.webp" group-title="Deportes" ,Fox Deportes en Vivo
+https://live-manifest.production-public.tubi.io/live/d906efca-1302-4e29-b0d9-9a1d7a305d69/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f457ddce2f999c3f4b595e0966bd7f94.webp" group-title="Deportes" ,Teletrak en Vivo
+https://teletraktv.janus.cl/playlist/stream.m3u8?s=lq&t=1699756660&id=louvd0p9&q=2&d=w
+
+#EXTINF:-1, Sky sport
+deportes.ksdjugfsddeports.com:9092/MTg3LjIxMS4yMzkuMTIw/40_.m3u8
+
+
+#EXTINF:-1 tvg-id="ACCNetwork.us@SD" tvg-logo="https://i.imgur.com/TpCkbkT.png" group-title="Deportes",ACCN (720p)
+https://fl1.moveonjoy.com/ACC_NETWORK/index.m3u8
 
 #EXTINF:-1, Runtime Crimen 2
 https://run-rucrl.otteravision.com/run/rucrl/rucrl_720.m3u8
