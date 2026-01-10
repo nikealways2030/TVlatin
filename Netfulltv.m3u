@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://symphonier.com/img/estaciones/teleclasica.png" group-title="Cine",Tele Clasica
-https://live20.bozztv.com/akamaissh101/ssh101/teleclasik/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2022/10/Runtime-Accio%CC%81n-en-directo-Online-696x392.png"   group-title= "Cine" ,Runtime Accion
 https://run-ra-es.otteravision.com/run/ra_es/ra_es_720.m3u8
 
